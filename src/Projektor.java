@@ -2,7 +2,7 @@
 public class Projektor {
 	int name;
 	
-	public int dodaj111( int a, int b ){
+	public int dodaj( int a, int b ){
 		int c = a + b;
 		sukces();
 		return c;
